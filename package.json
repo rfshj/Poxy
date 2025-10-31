@@ -1,7 +1,7 @@
 {
-  "name": "shadow",
+  "name": "poxyv1",
   "version": "3.2.1",
-  "description": "Shadow proxy",
+  "description": "Poxy V1",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",

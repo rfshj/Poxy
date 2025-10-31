@@ -1,5 +1,5 @@
 {
-  "name": "Shadow",
+  "name": "poxyv1",
   "build": {
     "dockerfile": "Dockerfile"
   },
